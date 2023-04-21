@@ -12,6 +12,9 @@ int main()
     cout << A[P - 1];
 }
 
+// [0][1][2][3]
+// word 4, 0 - 3
+
 /*
 B. Letter
 

@@ -6,6 +6,7 @@ int A[1010];
 
 int main()
 {
+    int A[1000];
     int N,ans=0;
     cin >> N;
     for(int i=0;i<N;i++){

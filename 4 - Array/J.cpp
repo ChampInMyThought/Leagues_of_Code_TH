@@ -15,9 +15,6 @@ int main()
             n_max[1] = n_max[0];
             n_max[0] = num;
         }
-        else if(num > n_max[1]){
-            n_max[1] = num;
-        }
     }
     cout << n_max[1];
 }
